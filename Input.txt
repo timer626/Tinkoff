@@ -1,0 +1,3 @@
+files/awac.py plagiat1/awac.py
+files/base.py plagiat1/base.py
+files/cgd.py plagiat2/cgd.py
